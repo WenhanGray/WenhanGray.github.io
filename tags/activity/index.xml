@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>activity - Tag - Wenhan Yu</title>
-        <link>https://wenhan.github.io/tags/activity/</link>
+        <link>https://WenhanGray.github.io/tags/activity/</link>
         <description>activity - Tag - Wenhan Yu</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wenhan002@e.ntu.edu.sg (Wenhan Yu)</managingEditor>
-            <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster><lastBuildDate>Wed, 14 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://wenhan.github.io/tags/activity/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster><lastBuildDate>Wed, 14 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://WenhanGray.github.io/tags/activity/" rel="self" type="application/rss+xml" /><item>
     <title>Invited talk at National University of Singapore (NUS)</title>
-    <link>https://wenhan.github.io/posts/nustalk/nustalk/</link>
+    <link>https://WenhanGray.github.io/posts/nustalk/nustalk/</link>
     <pubDate>Wed, 14 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Wenhan Yu</author>
-    <guid>https://wenhan.github.io/posts/nustalk/nustalk/</guid>
+    <guid>https://WenhanGray.github.io/posts/nustalk/nustalk/</guid>
     <description><![CDATA[I am honored to present the talk at NUS. ]]></description>
 </item>
 </channel>
