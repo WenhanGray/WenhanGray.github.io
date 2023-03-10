@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Wenhan Yu</title>
-    <link>https://WenhanGray.github.io/publications/</link>
+    <link>https://wenhangray.github.io/publications/</link>
     <description>Recent content in Publications on Wenhan Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>wenhan002@e.ntu.edu.sg (Wenhan Yu)</managingEditor>
     <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster>
-    <lastBuildDate>Thu, 09 Mar 2023 18:53:48 +0800</lastBuildDate><atom:link href="https://WenhanGray.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Mar 2023 18:53:48 +0800</lastBuildDate><atom:link href="https://wenhangray.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>https://WenhanGray.github.io/publications/publication/</link>
+      <link>https://wenhangray.github.io/publications/publication/</link>
       <pubDate>Thu, 09 Mar 2023 18:53:48 +0800</pubDate>
       <author>wenhan002@e.ntu.edu.sg (Wenhan Yu)</author>
-      <guid>https://WenhanGray.github.io/publications/publication/</guid>
+      <guid>https://wenhangray.github.io/publications/publication/</guid>
       <description>Journal paper Wenhan Yu, Terence Jie Chua, Jun Zhao. &amp;ldquo;Asynchronous Hybrid Reinforcement Learning for Latency and Reliability Optimization in the Metaverse over Wireless Communications.&amp;rdquo;
 &amp;mdash; IEEE Journal on Selected Areas in Communications (JSAC), 2023. preprint Wenhan Yu, Terence Jie Chua, Jun Zhao. &amp;ldquo;User-centric Heterogeneous-action Deep Reinforcement Learning for Virtual Reality in the Metaverse over Wireless Networks..&amp;rdquo;
 &amp;mdash; IEEE Transactions on Wireless Communications (TWC), Major revision, 2023. Terence Jie Chua, Wenhan Yu, Jun Zhao.</description>

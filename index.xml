@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Wenhan Yu</title>
-        <link>https://WenhanGray.github.io/</link>
+        <link>https://wenhangray.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wenhan002@e.ntu.edu.sg (Wenhan Yu)</managingEditor>
             <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster><lastBuildDate>Thu, 09 Mar 2023 18:53:48 &#43;0800</lastBuildDate>
-            <atom:link href="https://WenhanGray.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://wenhangray.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My first jounal paper appears in JSAC</title>
-    <link>https://WenhanGray.github.io/posts/jsac/jsac/</link>
+    <link>https://wenhangray.github.io/posts/jsac/jsac/</link>
     <pubDate>Mon, 09 Jan 2023 18:53:48 &#43;0800</pubDate>
     <author>Wenhan Yu</author>
-    <guid>https://WenhanGray.github.io/posts/jsac/jsac/</guid>
+    <guid>https://wenhangray.github.io/posts/jsac/jsac/</guid>
     <description><![CDATA[The system model for the paper: The proposed solution, Asynchronous Actors Hybrid Critic (AAHC) for the paper: ]]></description>
 </item>
 <item>
     <title>Invited talk at National University of Singapore (NUS)</title>
-    <link>https://WenhanGray.github.io/posts/nustalk/nustalk/</link>
+    <link>https://wenhangray.github.io/posts/nustalk/nustalk/</link>
     <pubDate>Wed, 14 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Wenhan Yu</author>
-    <guid>https://WenhanGray.github.io/posts/nustalk/nustalk/</guid>
+    <guid>https://wenhangray.github.io/posts/nustalk/nustalk/</guid>
     <description><![CDATA[I am honored to present the talk at NUS. ]]></description>
 </item>
 <item>
     <title>Our paper got the best paper award</title>
-    <link>https://WenhanGray.github.io/posts/bdcat/bestpaper/</link>
+    <link>https://wenhangray.github.io/posts/bdcat/bestpaper/</link>
     <pubDate>Fri, 09 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Wenhan Yu</author>
-    <guid>https://WenhanGray.github.io/posts/bdcat/bestpaper/</guid>
+    <guid>https://wenhangray.github.io/posts/bdcat/bestpaper/</guid>
     <description><![CDATA[Our paper &ldquo;Mobile Edge Adversarial Detection for Digital Twinning to the Metaverse with Deep Reinforcement Learning&rdquo; won the Best Paper Award in IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT).]]></description>
 </item>
 </channel>

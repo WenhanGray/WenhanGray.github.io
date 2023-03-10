@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Wenhan Yu</title>
-        <link>https://WenhanGray.github.io/categories/</link>
+        <link>https://wenhangray.github.io/categories/</link>
         <description>Categories - Category - Wenhan Yu</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wenhan002@e.ntu.edu.sg (Wenhan Yu)</managingEditor>
-            <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster><atom:link href="https://WenhanGray.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster><atom:link href="https://wenhangray.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
