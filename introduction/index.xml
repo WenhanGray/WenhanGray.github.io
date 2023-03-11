@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introductions on Wenhan Yu</title>
+    <link>https://wenhangray.github.io/introduction/</link>
+    <description>Recent content in Introductions on Wenhan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wenhan002@e.ntu.edu.sg (Wenhan Yu)</managingEditor>
+    <webMaster>wenhan002@e.ntu.edu.sg (Wenhan Yu)</webMaster>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wenhangray.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://wenhangray.github.io/introduction/introduction/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <author>wenhan002@e.ntu.edu.sg (Wenhan Yu)</author>
+      <guid>https://wenhangray.github.io/introduction/introduction/</guid>
+      <description>Self-introduction Hello, this is Wenhan Yu, currently a second year Ph.D in Nanyang Techonological University (NTU), Singapore. My research interest covers：
+Wireless communications Deep Reinforcement Learning Optimization Metaverse. Pursuing a Ph.D. is a lengthy journey filled with challenges and moments of joy. As an &amp;ldquo;undergraduate-to-PhD&amp;rdquo; student, I am sincerely grateful to my supervisor and all my team mates for their guidance and support. I am constantly learning new things from them and appreciate their contributions to my academic and personal growth.</description>
+    </item>
+    
+  </channel>
+</rss>
